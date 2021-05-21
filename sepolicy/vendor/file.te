@@ -22,3 +22,6 @@ type sysfs_batt_mods, fs_type, sysfs_type, mlstrustedobject;
 
 # KGSL
 type sysfs_kgsl, sysfs_type, fs_type;
+
+# FPS
+type sysfs_fps, sysfs_type, fs_type;
